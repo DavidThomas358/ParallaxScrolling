@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body {
+    background-color: rgb(27, 0, 36);
+    margin: 0px;
+    padding: 0px;
+}
+
+.top-heading {
+    background-image: url('images/heading.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* -------------------------------------------------- */
+    color: #fff;
+    font-family: kaushan script;
+    word-spacing: 3px;
+    letter-spacing: 3px;
+    font-size: 23px;
+    text-shadow: 0 0 5px chartreuse,
+    0 0 15px chartreuse;
+    /* -------------------------------------------------- */
+}
+.quote1 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote2 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote3 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote4 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote5 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote6 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote6.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote7 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote7.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote8 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote8.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote9 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote9.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote10 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote10.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote11 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote11.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote12 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/quote12.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.thank-you {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('images/thank\ you.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+
+/* Media Queries */
+@media screen and (max-width: 542px) {
+    .top-heading {
+        font-size: 17px;
+    }
+    .quote1 {
+        font-size: 14px;
+    }
+    .quote2 {
+        font-size: 14px;
+    }
+    .quote3 {
+        font-size: 14px;
+    }
+    .quote4 {
+        font-size: 14px;
+    }
+    .quote5 {
+        font-size: 14px;
+    }
+    .quote6 {
+        font-size: 14px;
+    }
+    .quote7 {
+        font-size: 14px;
+    }
+    .quote8 {
+        font-size: 14px;
+    }
+    .quote9 {
+        font-size: 14px;
+    }
+    .quote10 {
+        font-size: 14px;
+    }
+    .quote11 {
+        font-size: 14px;
+    }
+    .quote12 {
+        font-size: 14px;
+    }
+    .thank-you {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 444px) {
+    .quote3 {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 372px) {
+    .quote1 {
+        font-size: 11px;
+    }
+    .quote2 {
+        font-size: 11px;
+    }
+    .quote3 {
+        font-size: 10px;
+    }
+    .quote5 {
+        font-size: 12px;
+    }
+    .quote6 {
+        font-size: 13px;
+    }
+    .quote9 {
+        font-size: 12px;
+    }
+    .quote11 {
+        font-size: 12px;
+    }
+    .quote12 {
+        font-size: 12px;
+    }
+    .top-heading {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 372px) {
+    .top-heading {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 266px) {
+    .top-heading {
+        font-size: 10px;
+    }
+    .quote3 {
+        font-size: 8px;
+    }
+    .quote4 {
+        font-size: 10px;
+    }
+    .quote5 {
+        font-size: 10px;
+    }
+    .quote6 {
+        font-size: 11px;
+    }
+    .quote7 {
+        font-size: 11px;
+    }
+    .quote8 {
+        font-size: 11px;
+    }
+    .quote10 {
+        font-size: 11px;
+    }
+    .quote11 {
+        font-size: 9px;
+    }
+    .quote12 {
+        font-size: 10px;
+    }
+}
