@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body {
+    background-color: rgb(27, 0, 36);
+    margin: 0px;
+    padding: 0px;
+}
+
+.top-heading {
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575026-a23c3000-b0fd-11eb-96a0-509f69758c56.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* -------------------------------------------------- */
+    color: #fff;
+    font-family: kaushan script;
+    word-spacing: 3px;
+    letter-spacing: 3px;
+    font-size: 23px;
+    text-shadow: 0 0 5px chartreuse,
+    0 0 15px chartreuse;
+    /* -------------------------------------------------- */
+}
+.quote1 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575059-d0ba0b00-b0fd-11eb-8bf2-ff97432296b6.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote2 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575082-ea5b5280-b0fd-11eb-9c4c-fdc46d68bf99.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote3 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575100-00691300-b0fe-11eb-8f92-fb73ae97bbc2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote4 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575117-124ab600-b0fe-11eb-840f-549e99462bf2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote5 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575135-22629580-b0fe-11eb-8f0d-4b3197a9dcf1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote6 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575151-33130b80-b0fe-11eb-8a5e-5a5d4d7185af.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote7 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575189-605fb980-b0fe-11eb-88d2-a38f960d8bae.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote8 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575211-7a999780-b0fe-11eb-8a76-0952f257eb3b.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote9 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575233-91d88500-b0fe-11eb-8b49-21585412f5ee.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote10 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575252-a7e64580-b0fe-11eb-879c-1e25b3935e75.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote11 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575273-baf91580-b0fe-11eb-9b97-047c12e1905e.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.quote12 {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575292-cc422200-b0fe-11eb-93cf-d9d1f65de723.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+.thank-you {
+    height: 80vh;
+    width: 100%;
+    /* -------------------------------------------------- */
+    background-image: url('https://user-images.githubusercontent.com/75318831/117575310-db28d480-b0fe-11eb-8d3b-aa30f93d0e4c.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* -------------------------------------------------- */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* -------------------------------------------------- */
+    font-family: poppins;
+    font-size: 18px;
+    color: #fff;
+}
+
+/* Media Queries */
+@media screen and (max-width: 542px) {
+    .top-heading {
+        font-size: 17px;
+    }
+    .quote1 {
+        font-size: 14px;
+    }
+    .quote2 {
+        font-size: 14px;
+    }
+    .quote3 {
+        font-size: 14px;
+    }
+    .quote4 {
+        font-size: 14px;
+    }
+    .quote5 {
+        font-size: 14px;
+    }
+    .quote6 {
+        font-size: 14px;
+    }
+    .quote7 {
+        font-size: 14px;
+    }
+    .quote8 {
+        font-size: 14px;
+    }
+    .quote9 {
+        font-size: 14px;
+    }
+    .quote10 {
+        font-size: 14px;
+    }
+    .quote11 {
+        font-size: 14px;
+    }
+    .quote12 {
+        font-size: 14px;
+    }
+    .thank-you {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 444px) {
+    .quote3 {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 372px) {
+    .quote1 {
+        font-size: 11px;
+    }
+    .quote2 {
+        font-size: 11px;
+    }
+    .quote3 {
+        font-size: 10px;
+    }
+    .quote5 {
+        font-size: 12px;
+    }
+    .quote6 {
+        font-size: 13px;
+    }
+    .quote9 {
+        font-size: 12px;
+    }
+    .quote11 {
+        font-size: 12px;
+    }
+    .quote12 {
+        font-size: 12px;
+    }
+    .top-heading {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 372px) {
+    .top-heading {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 266px) {
+    .top-heading {
+        font-size: 10px;
+    }
+    .quote3 {
+        font-size: 8px;
+    }
+    .quote4 {
+        font-size: 10px;
+    }
+    .quote5 {
+        font-size: 10px;
+    }
+    .quote6 {
+        font-size: 11px;
+    }
+    .quote7 {
+        font-size: 11px;
+    }
+    .quote8 {
+        font-size: 11px;
+    }
+    .quote10 {
+        font-size: 11px;
+    }
+    .quote11 {
+        font-size: 9px;
+    }
+    .quote12 {
+        font-size: 10px;
+    }
+}
